@@ -1,0 +1,18 @@
+body {
+    background-color: #f8ece5;
+}
+
+.content{
+    text-align: center;
+    font-family: 'Italianno', cursive;
+}
+
+.button{
+   text-align: right;
+   
+}
+
+img{
+    border-style: groove;
+    border-color: #5F2703;
+}

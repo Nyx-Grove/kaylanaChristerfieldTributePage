@@ -1,0 +1,27 @@
+body{
+    background-color: #f8ece5 ;
+    font-family: 'Italianno', cursive;
+    font-size: 200%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+img{
+    height: 400px;
+    margin-left: 40%;
+}
+
+.carousel-inner{
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    
+}
+table, th, td {
+    border: 1px solid rgb(54, 50, 45);
+}
+
+.video{
+    text-align: center;
+}
+  
+
