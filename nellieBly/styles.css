@@ -16,4 +16,6 @@ body {
 img{
     border-style: groove;
     border-color: #5F2703;
+    height: 500px;
+    width: 550px;
 }
